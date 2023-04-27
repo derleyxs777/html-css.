@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+
+
+
+body {
+
+
+    background-image: url(imagens/coroa-de-espinhos-de-vista-superior-com-espaco-de-copia_23-2149428270.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+
+
+    background-color: rgb(255, 251, 0);
+    text-align: center;
+   border-radius: 15px;
+   box-shadow: 10px 10px 10px black;
+}
+
+h3{
+
+
+    background-color: rgb(255, 251, 0);
+   border-radius: 15px;
+   box-shadow: 10px 10px 10px black;
+}
+
+h4{
+
+
+    background-color: rgb(255, 251, 0);
+
+   border-radius: 15px;
+   box-shadow: 10px 10px 10px black;
+}
+
+h2{
+
+
+    background-color: rgb(255, 251, 0);
+   border-radius: 15px;
+   box-shadow: 10px 10px 10px black;
+}

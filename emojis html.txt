@@ -1,0 +1,5 @@
+para botar emojis no html usamos &#x: codigo do emoji
+
+
+
+ai vc pode ir no site dos emojis la:https://emojipedia.org/emoji/%F0%9F%98%8A/
